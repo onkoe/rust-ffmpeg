@@ -120,6 +120,6 @@ version = "0.25"
 optional = true
 
 [dependencies.ffmpeg-sys-next]
-repo = "https://github.com/zmwangx/rust-ffmpeg-sys"
+git = "https://github.com/zmwangx/rust-ffmpeg-sys"
 rev = "9b0634a"
 default-features = false
